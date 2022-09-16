@@ -15,10 +15,7 @@
 ![figma](https://img.shields.io/badge/-<figma>-085210?style=for-the-badge&logo=figma)
 ![PerfectPixel](https://img.shields.io/badge/-<PerfectPixel>-085210?style=for-the-badge&logo=PerfectPixel)
 
-<!-- About me
-
-Latest YouTube Videos
-
-Languages and Tools
-
-Follow me -->
+### Follow me
+[![Telegram](https://img.shields.io/badge/-<Telegram>-197122?style=for-the-badge&logo=Telegram)](https://t.me/aselAl86)
+[![Discord](https://img.shields.io/badge/-<Discord>-197122?style=for-the-badge&logo=Discord)](https://discord.com/channels/@asel.alimbaeva.kk(alimbaeva)(kg))
+[![Instagram](https://img.shields.io/badge/-<Instagram>-197122?style=for-the-badge&logo=Instagram)](https://www.instagram.com/as.el2783)
