@@ -1,9 +1,12 @@
-Header
+<img src="./assets/asel.png" width="100%">
 
-About me
+# Hi, guest!
+## I am a junior Frontend developer
+
+<!-- About me
 
 Latest YouTube Videos
 
 Languages and Tools
 
-Follow me
+Follow me -->
