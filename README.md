@@ -24,6 +24,8 @@
 ---
 
 ![Notion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notion_logo.svg/1024px-Notion_logo.svg.png)
+![Notion](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notion_logo.svg/1024px-Notion_logo.svg.png)
+![Notion](data:image/svg+xml;base64,[YOUR_BASE64_ENCODED_SVG_HERE])
 
 
 ## Stack
