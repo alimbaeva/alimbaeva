@@ -16,11 +16,6 @@
 ![PerfectPixel](https://img.shields.io/badge/-<PerfectPixel>-085210?style=for-the-badge&logo=PerfectPixel)
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/-<Telegram>-197122?style=for-the-badge&logo=Telegram)](https://t.me/aselAl86)
+[![Telegram](https://img.shields.io/badge/-<Telegram>-197122?style=for-the-badge&logo=Telegram)](https://t.me/asel4A))
 [![Discord](https://img.shields.io/badge/-<Discord>-197122?style=for-the-badge&logo=Discord)](https://discord.com/channels/@asel.alimbaeva.kk(alimbaeva)(kg))
-[![Instagram](https://img.shields.io/badge/-<Instagram>-197122?style=for-the-badge&logo=Instagram)](https://www.instagram.com/as.el2783)
 ### Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimbaeva&count_private=true&show_icons=true&theme=merko)](https://github.com/alimbaeva/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimbaeva&langs_count=8&layout=compact&theme=merko)](https://github.com/alimbaeva/github-readme-stats)
