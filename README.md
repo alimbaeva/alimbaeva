@@ -1,10 +1,11 @@
 <img src="./assets/asel.png" width="100%">
 
 # Hi, guest!
-## I am a junior Frontend developer
+## I am Frontend developer
 ### languages ​​and tools
 ![JavaScript](https://img.shields.io/badge/-<JavaScript>-085210?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-<TypeScript>-085210?style=for-the-badge&logo=TypeScript)
+![NextJS](https://img.shields.io/badge/-<NextJS>-085210?style=for-the-badge&logo=NextJS)
 ![HTML5](https://img.shields.io/badge/-<HTML5>-085210?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-<CSS3>-085210?style=for-the-badge&logo=CSS3)
 ![webpack](https://img.shields.io/badge/-<webpack>-085210?style=for-the-badge&logo=webpack)
