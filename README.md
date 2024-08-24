@@ -48,6 +48,7 @@
 <img src="./assets/Notion.svg" alt="nextdotjs" width="40" style="vertical-align: middle; margin-right: 10px;">
 <img src="./assets/Codewars.svg" alt="nextdotjs" width="40" style="vertical-align: middle; margin-right: 10px;">
 </div>
+
 ---
 
 ## Education and Certificates
