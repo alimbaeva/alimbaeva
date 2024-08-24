@@ -23,8 +23,6 @@
 
 ---
 
-Описание проекта.
-
 ## Stack
 
 ![Version](https://img.shields.io/badge/JavaScript-"#F7DF1E")
