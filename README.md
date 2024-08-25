@@ -1,4 +1,4 @@
-# Асель Алымбаева
+# Asel Alymbaeva
 
 ## **Frontend Developer**  
 <p>
@@ -55,7 +55,7 @@
 [RS-School - 12.03.2022 - 20.09.2022](https://app.rs.school/certificate/0ck7w2x5)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alimbaeva&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alimbaeva&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alimbaeva&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alimbaeva/github-readme-stats#gh-dark-mode-only)
