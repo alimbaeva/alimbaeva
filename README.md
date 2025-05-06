@@ -50,6 +50,10 @@
 
 ## Education and Certificates
 
+[React 2025 Q1 - 28.04.2025.](https://app.rs.school/certificate/ghtk3c0u)
+
+[EPAM ST 2025Q1 - 28.04.2025.](https://app.rs.school/certificate/et2n7btz)
+
 [RS-School - 01.10.2023 - 03.07.2024.](https://app.rs.school/certificate/vnv1baiu)
 
 [RS-School - 12.03.2022 - 20.09.2022](https://app.rs.school/certificate/0ck7w2x5)
